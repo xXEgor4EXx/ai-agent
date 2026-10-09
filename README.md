@@ -1,6 +1,6 @@
-# PVA Expert AI Agent
+#AI Agent
 
-Интеллектуальный AI-ассистент для компании **PVA Expert**, построенный на базе **FastAPI + RAG + GigaChat + Bitrix24**.
+Интеллектуальный AI-ассистент построенный на базе **FastAPI + RAG + GigaChat + Bitrix24**.
 
 Проект позволяет отвечать на вопросы клиентов по базе знаний компании, использовать Retrieval-Augmented Generation (RAG), интегрироваться с Bitrix24 и масштабироваться как отдельный AI-сервис.
 
