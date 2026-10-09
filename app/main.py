@@ -74,7 +74,7 @@ app = FastAPI(
     version="1.0.0",
     contact={
         "name": "Egor Sukharev",
-        "url": "https://github.com/ТВОЙ_GITHUB",
+        "url": "https://github.com/xXEgor4EXx",
     },
     license_info={
         "name": "MIT",
